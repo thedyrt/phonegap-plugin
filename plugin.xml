@@ -57,7 +57,7 @@
         <source-file src="src/android/com/tune/TunePlugin.java"
                      target-dir="src/com/tune" />
 
-        <framework src="com.android.support:support-v4:23.+" />
+        <framework src="com.android.support:support-v4:24.+" />
         <framework src="de.greenrobot:eventbus:2.4.0" />
         <framework src="com.google.android.gms:play-services-basement:11.0.1" />
         <framework src="com.google.android.gms:play-services-gcm:11.0.1" />
